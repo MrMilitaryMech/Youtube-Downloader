@@ -6,6 +6,7 @@ If you don't want to download it because it's just a random EXE, That's complete
 
 > [!NOTE]
 > Windows only. I haven't made it for anything else.
+> Also, The Icon is from [Here](https://www.freeimages.com/icon/youtube-ico-5678101)
 
 >[!CAUTION]
 >The above note was only put there because I thought that notes looked cool.
