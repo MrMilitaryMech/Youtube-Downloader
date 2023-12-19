@@ -2,7 +2,7 @@
 It downloads youtube stuff.
 I made this because I wanted that video with that thing.
 
-If you down't want to download it because it's just a random EXE, That's completely fine.
+If you don't want to download it because it's just a random EXE, That's completely fine.
 
 > [!NOTE]
 > Windows only. I haven't made it for anything else.
